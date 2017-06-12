@@ -1,6 +1,6 @@
 # HTML Slide Deck for EDRi
 
-The live version of this template is available [here](http://www.privacypies.org/edri-slide-deck-template/).
+The live version of this template is available [here](http://www.privacypies.org/edri-slide-deck-template/talk_name).
 
 # Instructions
 ### Step 1: Making your slides available on www.edri.org/your_name_talks/
