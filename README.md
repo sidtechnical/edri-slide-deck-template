@@ -50,7 +50,7 @@ The live version of this template is available [here](http://www.privacypies.org
      <footer class="notes">
     </footer>
   </section>
-</div></div>
+</div></div>```
 
 8. So create a new slide, just copy the whole **code block** of your choice.
 9. Put all the images into **images** folder.
