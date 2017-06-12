@@ -3,13 +3,13 @@
 The live version of this template is available [here](http://www.privacypies.org/edri-slide-deck-template/).
 
 # Instructions
-### Making your slides available on www.edri.org/your_name_talks/
+### Step 1: Making your slides available on www.edri.org/your_name_talks/
 1. Create a folder in **your name** in EDRi's server using FTP access (using Filezilla). 
 2. Download this repository and upload all its content to the folder to EDRi's site that you created in the previous step using FTP/FileZilla.
 3. When you visit www.edri.org/your_name_talks/ or www.edri.org/your_name_talks/index.html you will see a page, where you can put your bio, list all your talks chronologically. Update your bio first by editing the index.html file.
 4. Remember, Step 1 is done only for the first time.
 
-### Creating slides using this template
+### Step 2: Creating slides using this template
 1. Everytime you have to create a folder, come to this repository (online folder) and download it on your computer.
 2. Now, copy the folder called **talk_name** and rename it with a nice name to it (e.g. CPDP17). When everything is done, your slides will be available on www.edri.org/your_name_talks/CPDP17 . So, name the folder wisely.
 3. Inside the talk_name folder, there is a file called *index.html* which is the slide.
@@ -37,7 +37,7 @@ The live version of this template is available [here](http://www.privacypies.org
       </footer>
     </section>
 </div></div>
-
+```
 6. If you have to repeat this, copy paste it again, but change <div id="list" class="slide"><div> to something like <div id="list2" class="slide"><div>, and so on.
 
 7. Every slide is contained within the **code block** as follows:
