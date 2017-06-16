@@ -38,6 +38,7 @@ The live version of this template is available [here](http://www.privacypies.org
     </section>
 </div></div>
 ```
+
 6. If you have to repeat this, copy paste it again, but change <div id="list" class="slide"><div> to something like <div id="list2" class="slide"><div>, and so on.
 
 7. Every slide is contained within the **code block** as follows:
