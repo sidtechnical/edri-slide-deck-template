@@ -15,6 +15,7 @@ The live version of this template is available [here](http://www.privacypies.org
 3. Inside the talk_name folder, there is a file called *index.html* which is the slide.
 4. Open it up in a browser, as well as it gedit (or any ascii text editor).
 5. Imagine, you want to create a slide  with bullet points, the corresponding code block is as follows:
+
 ```html
 <div id="list" class="slide"><div>
     <section>
@@ -42,6 +43,7 @@ The live version of this template is available [here](http://www.privacypies.org
 6. If you have to repeat this, copy paste it again, but change <div id="list" class="slide"><div> to something like <div id="list2" class="slide"><div>, and so on.
 
 7. Every slide is contained within the **code block** as follows:
+
 ```html
 <div id="list" class="slide"><div>
   <section>
@@ -51,7 +53,9 @@ The live version of this template is available [here](http://www.privacypies.org
      <footer class="notes">
     </footer>
   </section>
-</div></div>```
+</div></div>
+```
+
 
 8. So create a new slide, just copy the whole **code block** of your choice.
 9. Put all the images into **images** folder.
